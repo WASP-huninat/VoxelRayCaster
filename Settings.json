@@ -1,0 +1,15 @@
+﻿{
+  "Graphics": {
+    "RenderResulution": [ 16, 9 ],
+    "FPS": 60.0,
+    "WindowResulution": [ 1280, 720 ],
+    "FullScreen": false,
+    "VSync": false
+  },
+  "Controls": {
+    "forward": "w",
+    "left": "a",
+    "backward": "s",
+    "right": "d"
+  }
+}
