@@ -1,0 +1,11 @@
+﻿{
+  "Position": {
+    "x": 3,
+    "y": 3,
+    "z": 3
+  },
+  "Camera": {
+    "rotation": 0,
+    "pitch": 4
+  }
+}
