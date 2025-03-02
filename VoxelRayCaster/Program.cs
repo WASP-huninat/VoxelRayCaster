@@ -8,7 +8,6 @@ namespace Renderer
     internal class Program
     {
         internal static Settings.Rootobject? Settings { get; private set; }
-        internal static int X { get; set; }
 
         internal static IWindow _window;
         internal static GL _gL;
